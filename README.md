@@ -115,7 +115,7 @@ itself.
 
 > **Heads up on runtime.** Feature engineering iterates over 93,942
 > pitcher-game appearances and is the most time-consuming stage. Total
-> wall-clock time depends heavily on your hardware and disk speed,
+> run-time depends heavily on your hardware and disk speed,
 > especially if the project lives on a synced cloud folder such as
 > OneDrive, Dropbox, or Google Drive (sync overhead on every file write
 > can slow things down considerably). Plan on the pipeline being a
