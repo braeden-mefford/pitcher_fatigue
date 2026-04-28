@@ -138,7 +138,7 @@ You can run all three with one command:
 python main.py
 ```
 
-That's it. On the first run, the slowest stage is the data download,
+On the first run, the slowest stage is the data download,
 which moves roughly 3 GB of pitch data from Baseball Savant in monthly
 chunks. Subsequent runs re-use the cached download and skip straight to
 feature engineering, which is then the slowest stage. See the runtime
