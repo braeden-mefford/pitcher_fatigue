@@ -20,7 +20,7 @@ of that data (2019 through 2025, about 4.6 million pitches) to answer a
 simple question:
 
 > Can we tell, in real time, when a starting pitcher is getting fatigued,
-> *before* the opposing team starts hitting him hard?
+> *before* the opposing team gains an advantage?
 
 The short answer is yes. A gradient-boosted model trained on rolling
 15-pitch windows raises a fatigue alert about 15 to 20 pitches before
